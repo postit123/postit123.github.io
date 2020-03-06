@@ -1,6 +1,6 @@
 # Characters Battel's
-
-You can use the [editor on GitHub](https://github.com/postit123/postit123.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Vote for what Charter you will think to win from games, movies,tvshows or more 
+we will find weaknesses abilites secret abillitis then we will chose the winner.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
