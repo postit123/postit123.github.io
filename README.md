@@ -5,7 +5,7 @@ we will find weaknesses abilites secret abillitis then we will chose the winner.
 
 
 ###
-[![N|Solid](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcomicbook.com%2Fanime%2F2019%2F06%2F20%2Fnaruto-sasuke-animation-fan-video-anime-watch%2F&psig=AOvVaw2YnD31U3QgaZZm4QTgNopX&ust=1583614549873000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCv9ofehugCFQAAAAAdAAAAABAa)]()
+[![N|Solid](http://getwallpapers.com/wallpaper/full/f/d/6/629412.jpg)]()
 
 
 ```markdown
