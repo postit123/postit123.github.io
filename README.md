@@ -1,5 +1,5 @@
 # Characters Battel's
-Vote for what Charter you will think to win from games, movies,tvshows or more 
+Vote for what Character you will think to win from games, movies,tvshows or more 
 we will find weaknesses abilites secret abillitis then we will chose the winner.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
