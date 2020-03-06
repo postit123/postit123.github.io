@@ -2,11 +2,11 @@
 Vote for what Character you will think to win from games, movies,tvshows or more 
 we will find weaknesses abilites secret abillitis then we will chose the winner.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###
+[![N|Solid](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcomicbook.com%2Fanime%2F2019%2F06%2F20%2Fnaruto-sasuke-animation-fan-video-anime-watch%2F&psig=AOvVaw2YnD31U3QgaZZm4QTgNopX&ust=1583614549873000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCv9ofehugCFQAAAAAdAAAAABAa)]()
+
 
 ```markdown
 Syntax highlighted code block
