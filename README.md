@@ -1,12 +1,10 @@
 # Characters Battel's
 Vote for what Character you will think to win from games, movies,tvshows or more 
-we will find weaknesses abilites secret abillitis then we will chose the winner.
+the there will be a vote to see what you guts thought woh would have won.
 
 
 
-#Naruto Vs Saskue
-[![N|Solid](http://getwallpapers.com/wallpaper/full/f/d/6/629412.jpg)]()
-
+#Squad 1-10 vs goku
 
 ```markdown
 Syntax highlighted code block
