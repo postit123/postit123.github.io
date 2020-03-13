@@ -4,7 +4,8 @@ the there will be a vote to see what you guts thought woh would have won.
 
 
 
-#Squad 1-10 vs goku
+Omoi  vs Neji chuna exams
+[![Build Status](http://narutoblazing.gamea.co/file/content/15vfbxgh/sm5clxxh/278854/4830a29c89fd579e64cd50c08f71ad5880c026d4_500.jpg)
 
 ```markdown
 Syntax highlighted code block
